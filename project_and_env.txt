@@ -1,0 +1,6 @@
+Project name				environment 		code description
+compare_graphs				henk			MMD Evaluation
+graph-creator				joep			csv data to graphs
+graph-generation			faas			GraphRNN based graph generator
+graphRNN_copy				copykees		Graph visualization
+pytorch-onnx-tensorflow-hls4ml		jaap			hls4ml conversion

@@ -1,0 +1,26 @@
+name: joep
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip=21.3.1=pyhd8ed1ab_0
+  - python=3.6.2=0
+  - python_abi=3.6=2_cp36m
+  - setuptools=58.0.4=py36ha15d459_2
+  - ucrt=10.0.22621.0=h57928b3_0
+  - vc=14.3=hb25d44b_16
+  - vc14_runtime=14.34.31931=h5081d32_16
+  - vs2015_runtime=14.34.31931=hed1258a_16
+  - wheel=0.37.1=pyhd8ed1ab_0
+  - pip:
+      - cycler==0.11.0
+      - decorator==5.1.1
+      - matplotlib==1.5.3
+      - networkx==1.11
+      - numpy==1.19.5
+      - pandas==1.1.5
+      - pyparsing==3.0.7
+      - python-dateutil==2.8.2
+      - pytz==2023.3
+      - six==1.16.0
+prefix: C:\Users\matth\miniconda3\envs\joep
